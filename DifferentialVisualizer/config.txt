@@ -1,0 +1,3 @@
+[DEFAULT]
+SourceFolder = C:\Users\Johannes\source\repos\ProbelessLightDetection\assets\RenderScreenshots
+GroundTruthNamingSchema = SH_gt
